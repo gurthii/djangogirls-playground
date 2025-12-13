@@ -2,7 +2,7 @@
 A simple, functional web blog built using Python and Django. This project is an implementation of the [Django Girls Tutorial](https://tutorial.djangogirls.org/en/).
 
 ## Intro
-This application allows users to view blog posts and includes an administration interface for content management. It was built to learn the fundamentals of web development with Django, including models, views, templates, and deployment. You can view it live on my [PythonAnywhere Web App](https://mandra.pythonanywhere.com/)
+This application allows users to view blog posts and includes an administration interface for content management. It was built to learn the fundamentals of web development with Django, including models, views, templates, and deployment. You can view it live on my [PythonAnywhere Web App](https://mandra.pythonanywhere.com/).
 
 ## Features
 * **Blog Posts**: View a list of posts and read full articles.
